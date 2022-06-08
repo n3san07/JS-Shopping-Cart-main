@@ -101,3 +101,11 @@ parentElement.addEventListener('click', (e) => { // Last
 });
 
 updateShoppingCartHTML();
+
+function try5( num1  , num2){
+
+return num1 * num2
+
+}
+
+console.log(try5(1,2));
